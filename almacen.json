@@ -1,0 +1,37 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "url": "assets/evento.jpg",
+      "des": "Inicio",
+      "titulo": "Orquesta",
+      "fecha": "2024-09-18T19:00:00Z",
+      "lugar": "Duoc",
+      "opimg": "1",
+      "optex": "0"
+    },
+    {
+      "id": "2",
+      "url": "assets/evento.jpg",
+      "des": "Inicio",
+      "titulo": "Orquesta en Vivo",
+      "fecha": "2024-09-18T19:00:00Z",
+      "lugar": "Duoc Maipu",
+      "opimg": "1",
+      "optex": "0"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "dbf6",
+      "username": "marce.trigov@gmail.com",
+      "email": "cristobal.d.trigo.v@gmail.com",
+      "password": "Master323",
+      "rut": "12345611-9",
+      "isactive": true,
+      "img": "https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg?semt=ais_hybrid"
+    }
+  ],
+  "asistencia": [
+  ]
+}
