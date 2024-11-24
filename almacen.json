@@ -23,8 +23,8 @@
   ],
   "usuarios": [
     {
-      "id": "dbf6",
-      "username": "marce.trigov@gmail.com",
+      "id": "1",
+      "username": "Cristobal Trigo",
       "email": "cristobal.d.trigo.v@gmail.com",
       "password": "Master323",
       "rut": "12345611-9",
@@ -35,6 +35,15 @@
   "asistencia": [
   ],
   "gestor": [
+    {
+      "id": "1",
+      "username": "Ariel Rivas",
+      "email": "ariel.gestor@gestor.com",
+      "password": "Gestor123",
+      "rut": "11111111-1",
+      "isactive": true,
+      "img": "https://los40cl-digitalproserver.prisa.media/wp-content/uploads/2020/02/shrek-ricky-martin.jpg"
+    }
   ],
   "qr": [
   ]
