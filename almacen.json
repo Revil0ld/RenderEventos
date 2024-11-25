@@ -3,18 +3,18 @@
     {
       "id": "1",
       "url": "assets/evento.jpg",
-      "des": "Inicio",
+      "des": "Te invitamos a disfrutar de una noche mágica llena de música y talento con la Orquesta Sinfónica Universitaria. Bajo la dirección del renombrado maestro Juan Pérez, nuestros talentosos músicos interpretarán un variado repertorio que incluye obras clásicas de compositores como Beethoven, Mozart y Tchaikovsky, así como piezas contemporáneas que te emocionarán y sorprenderán.",
       "titulo": "Orquesta",
       "fecha": "2024-09-18T19:00:00Z",
-      "lugar": "Duoc",
+      "lugar": "Duoc Central",
       "opimg": "1",
       "optex": "0"
     },
     {
       "id": "2",
-      "url": "assets/evento.jpg",
-      "des": "Inicio",
-      "titulo": "Orquesta en Vivo",
+      "url": "assets/junta.png",
+      "des": "Disfruta de compartir con personas que no conoces y que no tienes la mas minima idea de como son, puede salir algo muy bien o muy mal. DISFRUTA",
+      "titulo": "Juntada",
       "fecha": "2024-09-18T19:00:00Z",
       "lugar": "Duoc Maipu",
       "opimg": "1",
