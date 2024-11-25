@@ -32,8 +32,10 @@
       "img": "https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg?semt=ais_hybrid"
     }
   ],
+  
   "asistencia": [
   ],
+  
   "gestor": [
     {
       "id": "1",
@@ -45,10 +47,10 @@
       "img": "https://los40cl-digitalproserver.prisa.media/wp-content/uploads/2020/02/shrek-ricky-martin.jpg"
     }
   ],
+  
   "qr": [
   ],
+  
   "qrge": [
-  ],
-  
-  
+  ]
 }
